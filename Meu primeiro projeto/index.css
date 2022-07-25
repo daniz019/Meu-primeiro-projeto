@@ -1,0 +1,82 @@
+.bordinha {
+    position: absolute;
+    display: inline block;
+    margin-top: 192px;
+    padding: 70px;
+    border-radius: 50%;
+    margin-left: 48%;
+    background-image: url(/assets/eu.jpg);
+    border: solid #BB99DD;
+    background-size: 100%;
+}
+
+.Instagram {
+  position: absolute;
+  top: 37%;
+  left: 49%;
+  width: 150px;
+  color: #BB99DD;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.Telefone {
+    position: absolute;
+    border: solid #BB99DD;
+    top: 45%;
+    left: 43%;
+    width: 326px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 7px;
+    color: #BB99DD;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+.E-mail {
+    position: absolute;
+    border: solid #BB99DD;
+    width: 326px;
+    text-align: center;
+    padding: 7px;
+    font-family: 'Poppins', sans-serif;
+    color: #BB99DD;
+    font-size: 20px;
+    border-radius: 4px;
+    top: 52%;
+    left: 43%;
+}
+
+a {
+    color: #BB99DD;
+}
+
+.Rocketseat {
+    position: absolute;
+    top: 59%;
+    border: solid #BB99DD;
+    width: 326px;
+    text-align: center;
+    padding: 7px;
+    border-radius: 4px;
+    font-size: 20px;
+    left: 43%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Linkedin {
+    position: absolute;
+    top: 66%;
+    border: solid #BB99DD;
+    width: 326px;
+    border-radius: 4px;
+    padding: 7px;
+    text-align: center;
+    left: 43%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
